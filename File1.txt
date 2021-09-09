@@ -2,3 +2,7 @@
 
 여기에 수정된 내용을 amend commit 합니다. 
 git commit --amend
+
+--------
+이건 마스터에서 수정함
+--------

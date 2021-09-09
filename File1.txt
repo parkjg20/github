@@ -1,0 +1,4 @@
+이게 원본 파일의 내용입니다.
+
+여기에 수정된 내용을 amend commit 합니다. 
+git commit --amend
